@@ -18,3 +18,5 @@ How do I use it?
 
 This is still in development and I can't guarantee it will 100% work. Any issues or suggestions, post in Issues! As always, remember to leave a star if you liked it.
 
+It may trigger a false AV detection. Keep that in mind!
+
